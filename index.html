@@ -7,12 +7,17 @@
     <meta name="author" content="Tomichika Tokunaga">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 
+    <!--import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel=sylesheet">
+
     <!--title and logo of the homepage-->
     <title>Geosphere Environmental Systems laboratory</title>
     <link rel="icon" href="./img/icon/UnivOfTokyo_logo.svg">
 
     <!--Bootstrap CSS, revised from the theme Yeti-->
     <link rel="stylesheet" href="./css/bootstrap.css" media="all">
+    <!--Import masterialize.css-->
+    <link type="text/css" rel="stylesheet" href="./css/materilize.css" media="screen, projection"/>
 
     <!--Icon svg from the fontawesome-->
     <script src="./fonts/svg-with-js/fontawesome-all.js"></script>
@@ -23,17 +28,17 @@
 <!--               Navigation Bar              -->
 
     <nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-primary">
-        <a class="navbar-brand" href="#">Toku Lab</a>
+        <a class="navbar-brand" href="#top">Toku Lab</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="nabvarColor01">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="#top">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" href="/news/news.html">News</a>
+                <a class="nav-link" href="./news/news.html">News</a>
                 </li>
                 <li class="nav-item">
                 <a class="nav-link" href="/research/research.html">Research</a>
@@ -61,7 +66,66 @@
         </div>
     </nav>
 
+<!--            Brief introduction              -->
+
+    <div class="jumbotron" id="intro">
+        <div class="row">
+            <div class="col-lg-8 col-md-7 col-sm-6">
+                <h1 class="displace-3">Brief introduction</h1>
+                <p class="lead">The brief introduction of the Tokunaga laboratory focus on the environment systems in the University of Tokyo.</p>
+
+                <p class="lead">More text could be added for the indroduction of homepage.</p>
+
+                <p class="lead">The slides can be also made to automatically present more contents.</p>
+            </div>
+            <div class="col-lg-4 col-md-5 col-sm-6">
+                <img src="./img/indexpage/intro.jpg" class="img-fluid" class="materialboxed">
+            </div>
+        </div>
+    </div>
+
+<!--            News           -->
+
+
+
+<!--            Footer           -->
+
+    <nav class="navbar navbar-expand-lg fixed-botton navbar-light bg-light" id="footer">
+        <div class="collapse navbar-collapse">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                <a class="nav-link" href="#top">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="./news/news.html">News</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="/research/research.html">Research</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="/people/people.html">People</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="/publications/publications.html">Publications</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="/activities/activities.html">Activities</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="/about">About</a>
+                </li>
+            </ul>
+            <!-- Back to top -->
+            <ul class="list-unstyled">
+                <li class="flot-lg-right"><a href="#top">Back to top</a></li>
+            </ul>
+
+        </div>
+    </nav>
 
     
+    <!--Import JQuery before materialize.js-->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="./js/materialize.min.js"></script>
 </body>
 </html>

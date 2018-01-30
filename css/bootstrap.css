@@ -9136,3 +9136,7 @@ label,
   background-color: #f6f6f6;
   border: 1px solid #ccc;
 }
+
+
+/*custom set up*/
+body {background-color: #eee;}
