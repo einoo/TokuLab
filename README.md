@@ -16,6 +16,12 @@ Use the bootstrap style
 
 The layout of the brief introduction is finished with the grid system (12 column)
 
+_How to export full size svg by inkscape_
++ select the objectives
++ Open the document properties window
++ "Resize page to drawing or selection"
++ Save, or save as, or save as a copy
+
 ## Footer ##
 
 Footer style uses the freebie style with modified css file
