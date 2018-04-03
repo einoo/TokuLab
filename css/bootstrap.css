@@ -4802,9 +4802,33 @@ tbody.collapse.show {
 }
 
 .jumbotron {
-  padding: 4rem 2rem;
-  margin-bottom: 4rem;
+  padding: 4rem 4rem 1rem 4rem;
+  margin-bottom: 2rem;
   background-color: #eee;
+  border-radius: 0;
+}
+
+.introbox {
+  padding: 4rem 4rem 1rem 4rem;
+  margin-top: 2rem;
+  margin-bottom: 0rem;
+  background-color: #eee;
+  border-radius: 0;
+}
+
+.newsbox {
+  padding: 4rem 4rem 1rem 4rem;
+  margin-top: 2rem;
+  margin-bottom: 0rem;
+  background-color:#eee;
+  border-radius: 0;
+}
+
+.perspstd {
+  padding: 4rem 4rem 1rem 4rem;
+  margin-top: 0rem;
+  margin-bottom: 4rem;
+  background-color:#eee;
   border-radius: 0;
 }
 
@@ -5045,7 +5069,8 @@ tbody.collapse.show {
 .list-group-item-action:focus, .list-group-item-action:hover {
   color: #495057;
   text-decoration: none;
-  background-color: #f8f9fa;
+  /*background-color: #f8f9fa;*/
+  backround-color: #eee;
 }
 
 .list-group-item-action:active {
@@ -5058,7 +5083,7 @@ tbody.collapse.show {
   display: block;
   padding: 0.75rem 1.25rem;
   margin-bottom: -1px;
-  background-color: #fff;
+  background-color: #eee;
   border: 1px solid rgba(0, 0, 0, 0.125);
 }
 
@@ -9140,4 +9165,76 @@ label,
 /*custom css code*/
 body {
     background-color: #eee;
+}
+
+.widget .panel, .widget.panel {
+    border-bottom-width: 1px;
+    border-bottom-color: #cfd9db;
+    overflow: hidden;
+}
+
+.widget {
+    margin-bottom: 20px;
+}
+
+.panel {
+    position: relative;
+    border-width: 1px;
+    border-color: #cfd9db;
+    border-radius: 3px;
+    -webkit-box-shadow: 0 .0625rem .0625rem rgba(0,0,0,.05);
+    box-shadow: 0 .0625rem .0625rem rgba(0,0,0,.05);
+}
+
+.panel-body {
+    position: relative;
+}
+
+.mb0 {
+    margin-bottom: 0!important;
+}
+
+.text-info {
+    color: #22A7F0!important;
+}
+
+.list-table {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.list-table>li:first-child {
+    padding-left: 0;
+}
+
+.list-table>li {
+    display: table-cell;
+    table-layout: fixed;
+    vertical-align: middle;
+    width: auto;
+    padding: 0 5px;
+}
+
+.img-bordered-primary {
+    -webkit-box-shadow: 0 0 0 2px #fff,0 0 0 4px #446CB3;
+    box-shadow: 0 0 0 2px #fff,0 0 0 4px #446CB3;
+}
+
+.img-circle {
+    border-radius: 50%!important;
+}
+
+.ellipsis {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.semibold {
+    font-weight: 600;
+}
+.nm {
+    margin: 0!important;
 }

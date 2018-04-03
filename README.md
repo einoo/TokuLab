@@ -22,6 +22,14 @@ _How to export full size svg by inkscape_
 + "Resize page to drawing or selection"
 + Save, or save as, or save as a copy
 
+## News ##
+
+The frame had been added
+
+## Perspective students ##
+
+Few words about perspective students with more detailed information neccessary
+
 ## Footer ##
 
 Footer style uses the freebie style with modified css file
