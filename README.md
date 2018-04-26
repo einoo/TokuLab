@@ -22,6 +22,8 @@ _How to export full size svg by inkscape_
 + "Resize page to drawing or selection"
 + Save, or save as, or save as a copy
 
+The introduction part with the slide show is finished. 
+
 ## News ##
 
 The frame had been added
@@ -42,3 +44,4 @@ Footer style uses the freebie style with modified css file
 - The footer is not sticky on the bottom of the screen
 - The pictures in the index page is not clickable / modal style
 - The slides in the index page could be revised to add more contents
+- The contents and photos in the index page needs improvement.
