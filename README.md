@@ -30,12 +30,16 @@ The frame had been added
 
 ## Perspective students ##
 
-Few words about perspective students with more detailed information neccessary
+Few words about perspective students with more detailed information necessary
 
 ## Footer ##
 
 Footer style uses the freebie style with modified css file
 
+
+### News ###
+
+Example of news page is finished with the news of 2018 BD lecture
 
 
 ## To do list ##

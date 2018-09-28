@@ -4810,7 +4810,7 @@ tbody.collapse.show {
 
 .introbox {
   padding: 4rem 4rem 1rem 4rem;
-  margin-top: 2rem;
+  margin-top: 3rem;
   margin-bottom: 0rem;
   background-color: #eee;
   border-radius: 0;
@@ -4818,7 +4818,7 @@ tbody.collapse.show {
 
 .newsbox {
   padding: 4rem 4rem 1rem 4rem;
-  margin-top: 2rem;
+  margin-top: 1rem;
   margin-bottom: 0rem;
   background-color:#eee;
   border-radius: 0;
