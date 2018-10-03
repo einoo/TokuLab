@@ -9244,3 +9244,58 @@ body {
 .nm {
     margin: 0!important;
 }
+
+/*Profile layout*/
+
+/*.profile-head-box{*/
+  /*float: center;*/
+  /*height: 100%;*/
+  /*border: 1px #FFFFFF solid;*/
+  /*padding: 4rem 4rem 1rem 4rem;*/
+  /*margin-top: 1rem;*/
+  /*margin-bottom: 0rem;*/
+  /*background-color:#eee;*/
+  /*border-radius: 0;*/
+/*}*/
+
+/*.profile-head-box{*/
+  /*height: 100%;*/
+  /*padding: 4rem 4rem 1rem 4rem;*/
+  /*margin-top: 1rem;*/
+/*}*/
+
+.profile-head-box{
+  padding: 4rem 4rem 1rem 4rem;
+  margin-top: 1rem;
+  margin-bottom: 0rem;
+  background-color: #eee;
+  border-radius: 0;
+}
+
+.profile-head-box .profile-head-intro {
+  margin-top: 10px;
+}
+
+.profile-box{
+  padding: 0rem 4rem 1rem 4rem;
+  margin-top: 0.1rem;
+  margin-bottom: 0rem;
+  background-color:#eee;
+  border-radius: 0;
+}
+.block-update-card .card-bottom-status {
+  color: #a9a9aa;
+  font-weight: bold;
+  font-size: 14px;
+  border-top: #e0e0e0 1px solid;
+  padding-top: 5px;
+  margin: 0px;
+}
+.block-update-card .card-bottom-status:hover {
+  background-color: #dd4b39;
+  color: #FFFFFF;
+  cursor: pointer;
+}
+
+
+
