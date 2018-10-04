@@ -44,6 +44,7 @@ Example of news page is finished with the news of 2018 BD lecture
 ### People ###
 
 The page for the profile of Tokunaga-sensei has been updated
+The member list page has been updated
 
 
 ## To do list ##
@@ -53,4 +54,4 @@ The page for the profile of Tokunaga-sensei has been updated
 - The pictures in the index page is not clickable / modal style
 - The slides in the index page could be revised to add more contents
 - The contents and photos in the index page needs improvement.
-- Add the member list of lab for the Tab of 'People'
+- Add the email address of students
