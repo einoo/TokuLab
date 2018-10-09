@@ -46,6 +46,22 @@ Example of news page is finished with the news of 2018 BD lecture
 The page for the profile of Tokunaga-sensei has been updated
 The member list page has been updated
 
+### Publication  ###
+
+Publication page had roughly updated by the documents provided by sensei
+Revision on the order is necessary
+
+### Research  ###
+
+To do
+
+### About  ###
+
+To do
+
+### Activities ###
+
+To do
 
 ## To do list ##
 

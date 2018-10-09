@@ -9284,6 +9284,14 @@ body {
   border-radius: 0;
 }
 
+.publication-head-box{
+  padding: 4rem 4rem 1rem 4rem;
+  margin-top: 1rem;
+  margin-bottom: 0rem;
+  background-color:#eee;
+  border-radius: 0;
+}
+
 .member-list-head{
   padding: 4rem 4rem 1rem 12rem;
   margin-top: 3rem;
