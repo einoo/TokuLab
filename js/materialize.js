@@ -10019,3 +10019,8 @@ if (Vel) {
     $.error('Method ' + methodOrOptions + ' does not exist on jQuery.tap-target');
   };
 })(jQuery);
+
+$(document).ready(function(){
+    $('.collapsible').collapsible();
+});
+    if (methods[methodOrOptions] || typeof methodOrOptions === 'object') return methods.init.apply(this, arguments);

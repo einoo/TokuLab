@@ -9323,3 +9323,23 @@ body {
   background-color: #eee;
   border-radius: 0;
 }
+
+.research-head-box{
+  padding: 6rem 4rem 1rem 4rem;
+  margin-top: 1rem;
+  margin-bottom: 0rem;
+  background-color:#eee;
+  border-radius: 0;
+}
+
+.research-content-box{
+  padding: 0rem 4rem 1rem 4rem;
+  margin-top: 0.1rem;
+  margin-bottom: 0rem;
+  background-color: #eee;
+  border-radius: 0;
+}
+
+.research-content-box .research-content-text {
+  margin-top: 0px;
+}
