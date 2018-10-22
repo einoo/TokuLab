@@ -10020,7 +10020,12 @@ if (Vel) {
   };
 })(jQuery);
 
-$(document).ready(function(){
-    $('.collapsible').collapsible();
+document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('.carousel');
+    var instances = M.Carousel.init(elems, options);
 });
-    if (methods[methodOrOptions] || typeof methodOrOptions === 'object') return methods.init.apply(this, arguments);
+
+//Other by JQuery
+$(document).ready(function(){
+    $('.carousel').carousel();
+});

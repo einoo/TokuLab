@@ -3937,3 +3937,19 @@ $('#intro_carousel').on('slid.bs.carousel', function() {
   var id = $('.carousel-item.active').data('slide-number');
   $('#carousel-text').html($('#slide-content-'+id).html());
 });
+
+function initMap() {
+    var uluru = {lat:35.900439, lng: 139.933825};
+    var map = new google.maps.Map(
+            document.getElementById('map'), {zoom: 8, center: uluru});
+    var marker = new google.maps.Marker({position: uluru, map: map, title: 'Toku Lab'});
+    map.addListener('center_changed', function() {
+        window.setTimeout(function(){
+            map.panTo(marker.getPosition());
+        }, 3000);
+    });
+    marker.addListener('click', function(){
+        map.setZoom(8);
+        map.setCenter(marker.getPosition());
+    });
+}

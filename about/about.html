@@ -23,6 +23,13 @@
 
     <!--Icon svg from the fontawesome-->
     <script src="../fonts/svg-with-js/js/fontawesome-all.js"></script>
+    <!--Style for the map-->
+    <style>
+        #map {
+            height: 400px;
+            width: 100%;
+        }
+    </style>
 
 </head>
 <body>
@@ -68,17 +75,13 @@
         </div>
     </nav>
 
-<!--<!              news content    -->-->
+<!--About access-->
 
-  <div class="jumbotron">
-
-    <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
-    <hr class="my-4">
-    <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
-    <p class="lead">
-      <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
-    </p>
+  <div class="about-head-box">
+      <h3 style="display-3"> Access: 5-1-5 Kashiwanoha, Kashiwa, Chiba, Japan</h3>
+      <div id="map"></div>
   </div>
+
 <!--            Footer           -->
 
     <footer id="myFooter">
@@ -108,6 +111,9 @@
     <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script type="text/javascript" src="../js/materialize.min.js"></script>
     <script type="text/javascript" src="../js/bootstrap.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDrPQmHXoSlN3_uvtX2GrKJCI8hJ_FzDpg&callback=initMap"
+    async defer></script>
+
 </body>
 </html>
 

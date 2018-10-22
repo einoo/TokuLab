@@ -9343,3 +9343,31 @@ body {
 .research-content-box .research-content-text {
   margin-top: 0px;
 }
+
+.activity-head-box{
+  padding: 6rem 4rem 1rem 4rem;
+  margin-top: 1rem;
+  margin-bottom: 0rem;
+  background-color:#eee;
+  border-radius: 0;
+}
+
+.activity-content{
+  padding: 0rem 10rem 1rem 10rem;
+  margin-top: 0.1rem;
+  margin-bottom: 0rem;
+  background-color: #eee;
+  border-radius: 0;
+}
+
+.activity-content-box .activity-content-text {
+  margin-top: 0px;
+}
+
+.about-head-box{
+  padding: 6rem 4rem 1rem 4rem;
+  margin-top: 1rem;
+  margin-bottom: 0rem;
+  background-color:#eee;
+  border-radius: 0;
+}
