@@ -53,15 +53,17 @@ Revision on the order is necessary
 
 ### Research  ###
 
-To do
+Added the contents from previous pages
 
 ### About  ###
 
-To do
+The map has been added. 
+Log can be added to show the logging state of the webpage
 
 ### Activities ###
 
-To do
+2017 field excursion is added.
+Previous activities needed to be included.
 
 ## To do list ##
 
@@ -71,3 +73,4 @@ To do
 - The slides in the index page could be revised to add more contents
 - The contents and photos in the index page needs improvement.
 - Add the email address of students
+- Revise the location in the "about" page [google account limit]
