@@ -74,3 +74,12 @@ Previous activities needed to be included.
 - The contents and photos in the index page needs improvement.
 - Add the email address of students
 - Revise the location in the "about" page [google account limit]
+- ------
+- Add the field excursion of previous years.
+- Add the detailed access to the laboratory office. 
+- More decoration from Honda-san. 
+
+## Logging  ##
+
+2018-10-24    The frame of homepage was finished. (Mao)
+2018-10-25    First check by Honda-san. (Mao)
