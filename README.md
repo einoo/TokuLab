@@ -75,11 +75,14 @@ Previous activities needed to be included.
 - Add the email address of students
 - Revise the location in the "about" page [google account limit]
 - ------
-- Add the field excursion of previous years.
-- Add the detailed access to the laboratory office. 
+- Add the field excursion of previous years. [Finished]
+- Add the detailed access to the laboratory office. [Finished]
 - More decoration from Honda-san. 
 
 ## Logging  ##
 
 2018-10-24    The frame of homepage was finished. (Mao)
+
 2018-10-25    First check by Honda-san. (Mao)
+
+2018-10-26    Previous field excursion added, together with the detailed access map. (Mao)
