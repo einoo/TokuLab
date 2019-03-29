@@ -86,3 +86,5 @@ Previous activities needed to be included.
 2018-10-25    First check by Honda-san. (Mao)
 
 2018-10-26    Previous field excursion added, together with the detailed access map. (Mao)
+
+2019-03-29    Second check by Honda-san. (Mao)
