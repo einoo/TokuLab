@@ -4814,6 +4814,7 @@ tbody.collapse.show {
   margin-bottom: 0rem;
   background-color: #eee;
   border-radius: 0;
+  flex: 1;
 }
 
 .newsbox {
